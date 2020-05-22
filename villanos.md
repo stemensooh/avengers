@@ -2,4 +2,3 @@
 
 * Doomsday
 * jocker
-* Capitán America
